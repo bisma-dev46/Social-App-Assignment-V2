@@ -10,12 +10,12 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 
 
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashborad.png)
 
 
 
 
-![Create Post](./screenshots/Create-post.png)
+![Create Post](./screenshots/Create-Post.png)
 
 
 
@@ -31,7 +31,7 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 
 
-![Friend Request](screenshots/Frnd-request.png)
+![Friend Request](screenshots/frnd-request.png)
 
 
 

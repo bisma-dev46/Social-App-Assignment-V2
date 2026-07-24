@@ -10,32 +10,32 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 
 
-![Dashboard](./screenshots/Dashborad.png)
+![Dashboard](./Screenshot/Dashborad.png)
 
 
 
 
-![Create Post](./screenshots/Create-Post.png)
+![Create Post](./Screenshot/Create-Post.png)
 
 
 
 
-![People](./screenshots/People.png)
+![People](./Screenshot/People.png)
 
 
 
 
-![Chat with a friend](./screenshots/Chatfrnd.png)
+![Chat with a friend](./Screenshot/Chatfrnd.png)
 
 
 
 
 
-![Friend Request](screenshots/frnd-request.png)
+![Friend Request](Screenshot/frnd-request.png)
 
 
 
-![cnversation](screenshots/cnversation.png)
+![cnversation](Screenshot/cnversation.png)
 
 
 ## Tech Stack

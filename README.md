@@ -8,15 +8,17 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 ## Screenshot
 
+## Screenshots
+
 ![Dashboard](./Screenshot/Dashborad.png)
-![Create-Post](./Screenshot/Creat-Post.png)
+
+![Create Post](./Screenshot/Post.png)
+
 ![People](./Screenshot/People.png)
-![Chatfrnd](./Screenshot/chatfrnd.png)
-![Frnd-Request](./Screenshot/frnd-request.png)
-![Conversation](./Screenshot/cnversation.png)
 
+![Chat](./Screenshot/Chat.png)
 
-
+![Request](./Screenshot/Request.png)
 
 ## Tech Stack
 
@@ -46,7 +48,7 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/social-app-YOUR-NAME.git
+git clone 
 cd social-app-YOUR-NAME
 npm install
 npm run dev

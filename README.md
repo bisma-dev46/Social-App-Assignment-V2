@@ -6,19 +6,7 @@ A Facebook-inspired social media platform built with React — sign up, post upd
 
 > Not deployed — deployment wasn't required for this assignment. Run locally using the steps below, or see the live in-class demo.
 
-## Screenshot
 
-## Screenshots
-
-![Dashboard](./Screenshot/Dashborad.png)
-
-![Create Post](./Screenshot/Post.png)
-
-![People](./Screenshot/People.png)
-
-![Chat](./Screenshot/Chat.png)
-
-![Request](./Screenshot/Request.png)
 
 ## Tech Stack
 
